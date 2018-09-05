@@ -6,6 +6,7 @@
 flutter cli
 
 ### aeonsconfer_platform
+node.js
 
 ### aeonsconfer_webapp
 create-react-app cli
@@ -16,6 +17,7 @@ create-react-app cli
 flutter cli
 
 ### streaming_platform	
+node.js
 
 ### streaming_webapp
 create-react-app cli
@@ -26,6 +28,7 @@ create-react-app cli
 tns cli
 
 ### trading-platform	
+node.js
 
 ### trading-webapp
 angular cli
