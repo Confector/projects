@@ -3,37 +3,37 @@
 ## AEONS CONFER
 
 ### aeonsconfer_mobileapp
-flutter-cli
+flutter cli
 
 ### aeonsconfer_platform
 
 ### aeonsconfer_webapp
-create-react-app
+create-react-app cli
 
 ## STREAMING
 
 ### streaming_mobileapp
-flutter-cli
+flutter cli
 
 ### streaming_platform	
 
 ### streaming_webapp
-create-react-app
+create-react-app cli
 
 ## TRADING
 
 ### trading-mobileapp
-tns-cli
+tns cli
 
 ### trading-platform	
 
 ### trading-webapp
-angular-cli
+angular cli
 
 ## THOMASREINSCH
 
 ### thomasreinsch-webapp
-polymer-cli / webcomponents
+polymer cli / webcomponents
 
 ### thomasreinsch-mobileapp
 create-react-native-app cli
