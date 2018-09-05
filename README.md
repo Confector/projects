@@ -1,4 +1,4 @@
-# projects
+# PROJECTS
 
 ## AEONS CONFER
 
